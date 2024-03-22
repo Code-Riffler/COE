@@ -9,7 +9,7 @@ public class Main
 	    
 	    for(n=0;n<=10;n++)
 	    {
-	        System.out.println(2*n);
+	        System.out.println("2*"+n+"="+2*n);
 	    }
 	}
 }
